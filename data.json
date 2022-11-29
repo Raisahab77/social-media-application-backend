@@ -1,0 +1,37 @@
+[{
+    "like":1,
+    "comment": 1,
+    "share": 0,
+    "profilePicture": "../../assets/pokemon.png",
+    "userName":"vikas772",
+    "post": "../../assets/pokemon.png",
+    "description":"This is some description"
+  },
+  {
+    "like":1,
+    "comment": 1,
+    "share": 0,
+    "profilePicture": "../../assets/pokemon.png",
+    "userName":"vikas772",
+    "post": "../../assets/pokemon.png",
+    "description":"This is some description"
+  },
+  {
+    "like":1,
+    "comment": 1,
+    "share": 0,
+    "profilePicture": "../../assets/pokemon.png",
+    "userName":"vikas772",
+    "post": "../../assets/pokemon.png",
+    "description":"This is some description"
+  },
+  {
+    "like":1,
+    "comment": 1,
+    "share": 0,
+    "profilePicture": "../../assets/pokemon.png",
+    "userName":"vikas772",
+    "post": "../../assets/pokemon.png",
+    "description":"This is some description"
+  }
+  ]
